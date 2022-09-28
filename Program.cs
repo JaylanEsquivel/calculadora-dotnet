@@ -1,0 +1,11 @@
+﻿using calculadora.Models;
+
+
+
+Calculadora calculo = new Calculadora();
+
+calculo.Somar(5,5);
+calculo.Subitrair(5,5);
+calculo.Multiplicar(5,5);
+calculo.Dividir(5,5);
+calculo.Potencia(5,5);
